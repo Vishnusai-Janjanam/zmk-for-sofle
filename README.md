@@ -27,8 +27,7 @@ QWERTY base with **GACS home-row mods**, **vim arrows** (HJKL) on NAV, a top num
 
 ## Display
 
-- **Left (central):** Built-in ZMK status screen (layer, battery, BT)
-- **Right (peripheral):** Custom P keycap logo with glitch effects + battery + BT status
+- **Both halves:** Built-in ZMK status screens with battery percentage and status information
 
 ## Encoders
 
